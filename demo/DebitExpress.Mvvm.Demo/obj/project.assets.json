@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.2": {
+      "DebitExpress.Mvvm/19.1.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/net462/DebitExpress.Mvvm.dll": {}
+        },
+        "runtime": {
+          "lib/net462/DebitExpress.Mvvm.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win": {
+      "DebitExpress.Mvvm/19.1.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/net462/DebitExpress.Mvvm.dll": {}
+        },
+        "runtime": {
+          "lib/net462/DebitExpress.Mvvm.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win-x64": {
+      "DebitExpress.Mvvm/19.1.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/net462/DebitExpress.Mvvm.dll": {}
+        },
+        "runtime": {
+          "lib/net462/DebitExpress.Mvvm.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win-x86": {
+      "DebitExpress.Mvvm/19.1.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/net462/DebitExpress.Mvvm.dll": {}
+        },
+        "runtime": {
+          "lib/net462/DebitExpress.Mvvm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DebitExpress.Mvvm/19.1.1.3": {
+      "sha512": "kZbuPFoxoENjwsmOjkXXSD2oYLZaORTaI4hWzLQEjbEBfGCfLUnXZgYyg8ygpsw1NukaBfFfEh8RWZOTCgp21A==",
+      "type": "package",
+      "path": "debitexpress.mvvm/19.1.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "debitexpress.mvvm.19.1.1.3.nupkg.sha512",
+        "debitexpress.mvvm.nuspec",
+        "lib/net462/DebitExpress.Mvvm.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.2": [
+      "DebitExpress.Mvvm >= 19.1.1.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DebitExpress\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\DebitExpress.Mvvm.Demo\\DebitExpress.Mvvm.Demo\\DebitExpress.Mvvm.Demo.csproj",
+      "projectName": "DebitExpress.Mvvm.Demo",
+      "projectPath": "D:\\Projects\\DebitExpress.Mvvm.Demo\\DebitExpress.Mvvm.Demo\\DebitExpress.Mvvm.Demo.csproj",
+      "packagesPath": "C:\\Users\\DebitExpress\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\DebitExpress.Mvvm.Demo\\DebitExpress.Mvvm.Demo\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\DebitExpress\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net462"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Users\\DebitExpress\\.nuget\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net462": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net462": {
+        "dependencies": {
+          "DebitExpress.Mvvm": {
+            "target": "Package",
+            "version": "[19.1.1.3, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

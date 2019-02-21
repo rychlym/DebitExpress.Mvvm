@@ -1,0 +1,17 @@
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\bin\Debug\DebitExpress.Mvvm.Demo.exe.config
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\bin\Debug\DebitExpress.Mvvm.Demo.exe
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\bin\Debug\DebitExpress.Mvvm.Demo.pdb
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\bin\Debug\DebitExpress.Mvvm.dll
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo.csprojAssemblyReference.cache
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\MainWindow.g.cs
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\App.g.cs
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo_MarkupCompile.cache
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo_MarkupCompile.lref
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\MainWindow.baml
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo.g.resources
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo.Properties.Resources.resources
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo.csproj.GenerateResource.cache
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo.csproj.CoreCompileInputs.cache
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo.csproj.CopyComplete
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo.exe
+D:\Projects\DebitExpress.Mvvm.Demo\DebitExpress.Mvvm.Demo\obj\Debug\DebitExpress.Mvvm.Demo.pdb
